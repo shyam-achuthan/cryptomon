@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cryptomon/static/css/main.9173c69d.chunk.css",
+    "main.js": "/cryptomon/static/js/main.f8d337f2.chunk.js",
+    "main.js.map": "/cryptomon/static/js/main.f8d337f2.chunk.js.map",
+    "runtime-main.js": "/cryptomon/static/js/runtime-main.c163f96c.js",
+    "runtime-main.js.map": "/cryptomon/static/js/runtime-main.c163f96c.js.map",
+    "static/css/2.383c0125.chunk.css": "/cryptomon/static/css/2.383c0125.chunk.css",
+    "static/js/2.88dfba60.chunk.js": "/cryptomon/static/js/2.88dfba60.chunk.js",
+    "static/js/2.88dfba60.chunk.js.map": "/cryptomon/static/js/2.88dfba60.chunk.js.map",
+    "static/js/3.13e3d7b9.chunk.js": "/cryptomon/static/js/3.13e3d7b9.chunk.js",
+    "static/js/3.13e3d7b9.chunk.js.map": "/cryptomon/static/js/3.13e3d7b9.chunk.js.map",
+    "index.html": "/cryptomon/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/cryptomon/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.9173c69d.chunk.css.map": "/cryptomon/static/css/main.9173c69d.chunk.css.map",
+    "static/js/2.88dfba60.chunk.js.LICENSE.txt": "/cryptomon/static/js/2.88dfba60.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cryptomon/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c163f96c.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.88dfba60.chunk.js",
+    "static/css/main.9173c69d.chunk.css",
+    "static/js/main.f8d337f2.chunk.js"
+  ]
+}

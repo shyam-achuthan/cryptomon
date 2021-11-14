@@ -1,0 +1,35 @@
+{
+  "refresh": 6000,
+  "services": [
+    {
+      "url": "https://api.wishwa.org/user/",
+      "method": "get",
+      "data": {},
+      "name": "User Service"
+    },
+    {
+      "url": "https://api.wishwa.org/campaign/cause/list",
+      "method": "get",
+      "data": {},
+      "name": "Campaign Service"
+    },
+    {
+      "url": "https://api.wishwa.org/user/",
+      "method": "get",
+      "data": {},
+      "name": "Media Service"
+    },
+    {
+      "url": "https://api.wishwa.org/user/",
+      "method": "get",
+      "data": {},
+      "name": "Social Service"
+    },
+    {
+      "url": "https://api.wishwa.org/udser/",
+      "method": "get",
+      "data": {},
+      "name": "inactive Service"
+    }
+  ]
+}
